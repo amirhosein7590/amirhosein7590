@@ -31,7 +31,7 @@ const mySkills = {
     styling: ['TailwindCSS', 'Bootstrap', 'Shadcn UI'],
     stateManagement: ['Zustand', 'Redux', 'React Query'],
     uiLibraries: ['React Table', 'Framer Motion'],
-    languages: ['JavaScript (ES6+)', 'TypeScript (basic)']
+    languages: ['JavaScript (ES6+)', 'TypeScript']
   },
   backend: {
     technologies: ['Node.js (basic)', 'Express (basic)', 'REST APIs'],
