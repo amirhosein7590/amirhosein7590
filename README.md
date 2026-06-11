@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amirhossein Gholami</h1>
 <h3 align="center">Front-End Developer | Building Scalable Web Applications with React & Next.js</h3>
 <div align="center">
-  <a href="https://linkedin.com/in/amirhosein-gholami-a2754b2b7">
+  <a href="https://linkedin.com/in/amirhosein-gholami">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn Badge">
   </a>
   <a href="mailto:amirhosein7590@gmail.com">
